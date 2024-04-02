@@ -1,3 +1,8 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  scroll-behavior: smooth;   
+}
+* {box-sizing: border-box;}
 
 .open-button {
   font-size: 15px;
