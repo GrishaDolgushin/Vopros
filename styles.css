@@ -1,0 +1,12 @@
+
+.open-button {
+  font-size: 15px;
+  font-weight: bold;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: absolute;
+  left: 28px;
+  width: 200px;
+}
